@@ -6,5 +6,5 @@ This Github page is to share knowledge and techniques about Communication System
 #Selected Helpful Video Lectures
 - [Digital Logic Circuit](LC1.md)
 
-# Contact info.
+### Contact info.
 - jtkim (at) konkuk (dot) ac (dot) kr
